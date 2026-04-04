@@ -1,6 +1,6 @@
 #heading{
     color: rgb(106, 106, 174);
-    border: 2px solid black;
+    border: 3px solid black;
     padding: 1px;
     margin: 2px;
     border-radius: 16px;
@@ -18,7 +18,7 @@ h3{
 
 
 .box-contacts{
-    border: 2px solid rgb(106, 106, 174);
+    border: 3px solid rgb(106, 106, 174);
     width: 300px;
     padding: 1px;
     margin: auto;
@@ -37,4 +37,14 @@ h3{
 
 #coding{
     text-align: left;
+}
+
+#line{
+    border: 1px solid rgb(63, 63, 104);
+    width: 400px;
+    margin: auto;
+}
+
+#p40{
+    font-size: small;
 }
